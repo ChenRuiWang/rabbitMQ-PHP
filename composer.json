@@ -1,0 +1,16 @@
+{
+    "name": "randychan/rabbit-mq-php",
+    "description": "rabbitMQ study",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Randy-MBP",
+            "email": "m17607475471@163.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.2",
+        "php-amqplib/php-amqplib": ">=2.9.0"
+    }
+}
